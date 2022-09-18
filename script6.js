@@ -1,0 +1,1 @@
+document.querySelector(".searchinput___zXLAR").style.backgroundColor = "Red";

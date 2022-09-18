@@ -1,0 +1,2 @@
+document.querySelector(".side-bar .crayons-card .crayons-subtitle-2 ").innerText = "Mayur Patil"
+document.querySelector(".side-bar .crayons-card p ").innerText = "I Am Learning full Stack Web Development"

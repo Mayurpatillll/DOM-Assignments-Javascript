@@ -1,0 +1,2 @@
+document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "18px"; // Changes Font Size to 18px 
+document.querySelector(".HotDealsAll__Heading__2fIbe").style.fontSize = "100px"; // Changes Font Size to 100px
